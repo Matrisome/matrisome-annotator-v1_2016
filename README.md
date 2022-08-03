@@ -10,6 +10,6 @@ Input file requirements:
 
 Output file:
 
-    The output file name will be annotations.filename.csv and will be available to download on this page upon completion of the task.
+    The output file name will be annotations.filename.csv.
     The output file is a comma-separated text file that can be opened with excel.
     Matrisome division and category annotations will be in the first and second columns of the output file.
