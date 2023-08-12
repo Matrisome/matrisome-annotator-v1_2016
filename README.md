@@ -1,4 +1,4 @@
-# matrisome-annotator
+# matrisome-annotator (v1_2016)
 
 This script allows the identification of ECM genes/proteins in datasets and annotates these genes/proteins according to matrisome divisions (core matrisome or matrisome-associated) and categories (ECM glycoproteins, collagens and proteoglycans, for core matrisome genes, ECM-affiliated, ECM regulators and secreted factors, for matrisome-associated genes) proposed by Naba and collaborators <a href="https://www.mcponline.org/article/S1535-9476(20)30479-5/fulltext">Naba et al, Mol Cell Prot, 2012</a>.
 
